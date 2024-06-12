@@ -47,4 +47,6 @@ Markdown er kendetegnet ved at opsætningen skal give mening når dokumentet læ
 
 # Metadata for dokumenter
 
-For at knytte metadata, som f.eks. `forfatter`, `version`, `publiseringsdato` eller lignende, til dokumenter kan [YAML frontmatter](https://pandoc.org/MANUAL.html#extension-yaml_metadata_block) konventionen bruges.
+For at knytte metadata, som f.eks. `forfatter`, `version`, `publiseringsdato` eller lignende, til dokumenter kan [YAML frontmatter](https://pandoc.org/MANUAL.html#extension-yaml_metadata_block) konventionen bruges. Her indsættes de valgte metadata "felter" mellem to linier med 3 streger `---` som det første i dokumentet. I dette dokument er denne konvention fulgt. Der er fuldstændig frihed i hvilke felter man skriver på, men det er muligt at konfigurer om nogle felter er påkrævede og så sætte et system op, der kontrollerer om de påkrævede felter er udfyldt. Dette er ikke pt. indbygget i MarkText, men MarkText genkender metadata-området og viser det med en speciel opsætning.
+
+YAML frontmatter konventionen er kun en af flere mulige, men alle kræver en "organisatorisk" stillingtagning til hvilke felter der er relevante.
