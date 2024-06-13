@@ -8,7 +8,7 @@
     "type": "object",
     "properties": {
       "kategori": {
-        "description": "Kategori af helbredstilstande",
+        "description": "Kategori af helbredstilstande - Tilstande grupperet efter de 12 sygeplejefaglige problemområder",
         "enum": [
           "Funktionsniveau",
           "Bevægeapparat",
@@ -33,7 +33,7 @@
         "type": "string"
       },
       "eksempel": {
-        "description": "Eksempler på hvordan helbredstilstanden kan tage sig ud i praksis",
+        "description": "Eksempler på vurdering: Eksempler på kort og præcis vurdering af, hvordan problemet kommer til udtryk",
         "type": "string"
       },
       "medsendes_indlaeggelsesrapporten": {
