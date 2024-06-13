@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$comment": "id, where to reference this schema, should maybe be specified, but so far is to be stored locally: \"$id\": \"https://example.com/product.schema.json\"",
+  "title": "Validation schema for Fællessprog III helbredstilstande, version 0.1",
+  "description": "NB: this schema is for demonstration purposes and its content have not be verified nor approved by anyone with relation to KOMBIT or Fællessprog III. This schema documents the fields for Fællessprog III helbredstilstande",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "kategori": {
+        "description": "Kategori af helbredstilstande",
+        "enum": [
+          "Funktionsniveau",
+          "Bevægeapparat",
+          "Ernæring",
+          "Hud og slimhinder",
+          "Kommunikation",
+          "Psykosociale forhold",
+          "Respiration og cirkulation",
+          "Seksualitet",
+          "Smerter og sanseindtryk",
+          "Søvn og hvile",
+          "Viden og udvikling",
+          "Udskillelse af affaldsstoffer"
+        ]
+      },
+      "titel": {
+        "description": "Betegnelse for helbredstilstanden",
+        "type": "string"
+      },
+      "beskrivelse": {
+        "description": "Beskrivelse af helbredstilstanden",
+        "type": "string"
+      },
+      "eksempel": {
+        "description": "Eksempler på hvordan helbredstilstanden kan tage sig ud i praksis",
+        "type": "string"
+      },
+      "medsendes_indlaeggelsesrapporten": {
+        "description": "Tilstandsområdet sendes med i indlæggelsesrapporten fra kommunen til sygehuset",
+        "type": "boolean"
+      }
+    },
+    "additionalProperties": false,
+    "required": [
+      "kategori",
+      "titel",
+      "beskrivelse",
+      "eksempel",
+      "medsendes_indlaeggelsesrapporten"
+    ]
+  }
+}
+    

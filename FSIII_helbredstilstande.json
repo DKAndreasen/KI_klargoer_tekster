@@ -1,0 +1,262 @@
+[
+  {
+    "kategori": "Funktionsniveau",
+    "titel": "Problemer med personlig pleje",
+    "beskrivelse": "Vælges når borger har problemer med at varetage personlig pleje som følge af sygdom, skade eller handicap, og hvor kompleksiteten eller en kritisk situation kræver et særligt kompetenceniveau hos personalet, eller ved brug for støtte til kropspleje, af- og påklædning og/eller toiletbesøg",
+    "eksempel": "Fx besvær med at varetage den daglige hygiejne, herunder kropspleje og toiletbesøg, som følge af andet helbredsproblem",
+    "medsendes_indlaeggelsesrapporten": false
+  }, {
+    "kategori": "Funktionsniveau",
+    "titel": "Problemer med daglige aktiviteter",
+    "beskrivelse": "Vælges når borgeren har problemer med at aretage daglige aktiviteter, og hvor kompleksiteten eller en kritisk situation kræver et særligt kompetenceniveau hos personalet.\n Fx behov for hjælp til koordinering og planlægning af daglige aktiviteter ved tab af fysisk-, mental- og social funktionsevne, eller ved brug for anden støtte til planlægning og koordinering af dagligdagen.",
+    "eksempel": "Fx manglende overblik og initiativ.",
+    "medsendes_indlaeggelsesrapporten": false 
+  }, {
+    "kategori": "Bevægeapparat",
+    "titel": "Problemer med mobilitet og bevægelse",
+    "beskrivelse": "Vælges når borgeren har problemer med bevægelses-forstyrrelser og problemer med at bevæge sig, forflytte sig, ændre kropsstilling eller ved inaktivitet som følge af sygdom, skade eller behandling, fx bivirkning af medicin, eller ved brug for anden støtte til at ændre kropsstilling, forflytning og/eller at bevæge sig omkring. Fx borgere med Parkinsons sygdom og essentiel tremor.",
+    "eksempel": "Fx tremor, bevægelseshæmning, ufrivillige bevægelser, muskelstivhed, lammelser, spasticitet, ledstivhed, styringsbesvær eller nedsat muskelstyrke. Immobilitet, kontrakturer, svimmelhed, faldtendens, balanceproblemer.",
+    "medsendes_indlaeggelsesrapporten": true  
+  }, {
+    "kategori": "Ernæring",
+    "titel": "Problemer med væskeindtag",
+    "beskrivelse": "Vælges når borgeren har problemer med at indtage en korrekt mængde væske som følge af sygdom eller behandling, fx bivirkning af medicin, hvor der er risiko for dehydrering eller overhydrering, eller ved brug for anden støtte til væskeindtag.",
+    "eksempel": "Fx synkeproblemer, fejlsynkning, nedsat eller øget tørst, kvalme og opkast, træthed, forvirring og konfusion, svimmelhed, nedsat hudturgor.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Ernæring",
+    "titel": "Problemer med fødeindtag",
+    "beskrivelse": "Vælges når borgeren har problemer med at indtage eller optage ernæring og vitaminer/mineraler eller ved ernæringsbetingede stofskifteproblematikker som følge af sygdom eller behandling, fx bivirkning af medicin. \nFx borgere med dysfagi eller korttarmssyndrom, eller andre der modtager ernæring enten parenteral eller via sonde, eller ved brug for anden støtte til fødeindtag. \nTilstanden vælges også ved borgere med diabetes.",
+    "eksempel": "Fx tygge-/synkeproblemer, fejlsynkning, kvalme eller opkast, problemer med at optage eller indtage ernæring, vitaminer og mineraler. \nHvis borgeren har diabetes, beskrives de symptomer borgeren har ved for hypoeller hyperglykæmi. \nHypoglykæmi – fx træthed, øget svedtendens, sitren/rysten, bleghed, svimmelhed, koncentrationsbesvær, ændret adfærd. \nHyperglykæmi – fx øget tørst og vandladning, mundtørhed, hudkløe, kvalme, træthed, vægttab.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Ernæring",
+    "titel": "Uhensigtsmæssig vægtændring",
+    "beskrivelse": "Vælges når borgeren har problemer med pludselig vægtændring som følge af sygdom eller behandling, fx bivirkning af medicin, eller brug for anden støtte til at håndtere uplanlagt vægtændring.",
+    "eksempel": "Pludseligt vægttab eller vægtøgning.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Ernæring",
+    "titel": "Problemer med overvægt",
+    "beskrivelse": "Vælges når borgeren har problemer med overvægt som følge af sygdom eller behandling, fx bivirkning af medicin, eller brug for anden støtte til at håndtere overvægt.",
+    "eksempel": "Fx højt BMI, vægtstigning, øget appetit, overspisning.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Ernæring",
+    "titel": "Problemer med undervægt",
+    "beskrivelse": "Vælges når borgeren har problemer med vægttab og undervægt som følge af sygdom eller behandling, fx bivirkning af medicin, eller brug for anden støtte til at håndtere undervægt.",
+    "eksempel": "Fx lavt BMI, vægttab, småtspisende, manglende appetit, kvalme og/eller opkast, tygge-/synkeproblemer som følge af dårlig tandstatus, træthed, mangel på energi, koncentrationsbesvær.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Hud og slimhinder",
+    "titel": "Problemer med kirurgisk sår",
+    "beskrivelse": "Vælges når borgeren har problemer med sår, der er opstået som følge af et kirurgisk indgreb efter en operation, eller brug for anden støtte til behandling af kirurgisk sår.",
+    "eksempel": "Beskriv sårets placering, størrelse, udseende samt evt. gener såret medfører for borgeren. \nFx sårbund, sårkant, sekretion og omkringliggende hud.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Hud og slimhinder",
+    "titel": "Problemer med diabetisk sår",
+    "beskrivelse": "Vælges når borgeren har problemer med sår, der er opstået som en senkomplikation til diabetes, eller brug for anden støtte til behandling af diabetisk sår.",
+    "eksempel": "Beskriv sårets placering, størrelse, udseende samt evt. gener såret medfører for borgeren. \nFx sårbund, sårkant, sekretion og omkringliggende hud.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Hud og slimhinder",
+    "titel": "Problemer med cancersår",
+    "beskrivelse": "Vælges når borgeren har problemer med sår, der er opstået som følge af cancer og metastaser, eller brug for anden støtte til behandling af cancersår.",
+    "eksempel": "Beskriv sårets placering, størrelse, udseende samt evt. gener såret medfører for borgeren. \nFx sårbund, sårkant, sekretion og omkringliggende hud.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Hud og slimhinder",
+    "titel": "Problemer med tryksår",
+    "beskrivelse": "Vælges når borgeren har problemer med sår, der er opstået som følge af tryk og/eller shear, eller brug for anden støtte til behandling af tryksår.",
+    "eksempel": "Beskriv sårets placering, størrelse, udseende samt evt. gener såret medfører for borgeren. \nFx sårbund, sårkant, sekretion og omkringliggende hud.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Hud og slimhinder",
+    "titel": "Problemer med arterielt sår",
+    "beskrivelse": "Vælges når borgeren har problemer med sår, der er opstået som følge af nedsat arteriel blodtilførsel, eller brug for anden støtte til behandling af arterielt sår.",
+    "eksempel": "Beskriv sårets placering, størrelse, udseende samt evt. gener såret medfører for borgeren. \nFx sårbund, sårkant, sekretion og omkringliggende hud.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Hud og slimhinder",
+    "titel": "Problemer med venøst sår",
+    "beskrivelse": "Vælges når borgeren har problemer med sår, der er opstået som følge af venøs insufficiens, typisk manglende funktion af veneklapperne, eller brug for anden støtte til behandling af venøst sår.",
+    "eksempel": "Beskriv sårets placering, størrelse, udseende samt evt. gener såret medfører for borgeren. \nFx sårbund, sårkant, sekretion og omkringliggende hud.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Hud og slimhinder",
+    "titel": "Problemer med blandingssår",
+    "beskrivelse": "Vælges når borgeren har problemer med sår, der er opstået som følge af arteriel og venøs insufficiens, typisk en forværring af et venøst sår, eller brug for anden støtte til behandling af blandingssår.",
+   "eksempel": "Beskriv sårets placering, størrelse, udseende samt evt. gener såret medfører for borgeren. \nFx sårbund, sårkant, sekretion og omkringliggende hud.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Hud og slimhinder",
+    "titel": "Problemer med traumesår",
+    "beskrivelse": "Vælges når borgeren har problemer med sår, der er opstået som følge af traumer på hårdt væv og/eller bløddele. \nFx efter fald eller anden ulykke, snitsår, hudafskrabninger, brandsår, ætsninger eller forfrysninger, eller brug for anden støtte til behandling af traumesår.",
+    "eksempel": "Beskriv sårets placering, størrelse, udseende samt evt. gener såret medfører for borgeren. \nFx sårbund, sårkant, sekretion og omkringliggende hud.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Hud og slimhinder",
+    "titel": "Andre problemer med hud og slimhinder",
+    "beskrivelse": "Vælges når borgeren har problemer med hud og slimhinder som ikke er sår. \nFx borgere der har svampeinfektion, fnat eller MRSA, eller brug for anden støtte til behandling af hud- og slimhindeproblemer som ikke er sår.",
+    "eksempel": "Beskriv problemets placering, størrelse, udseende samt de evt. gener det medfører hos borgeren. \nFx kløe, kradsemærker, udslet, skællende hud, rødme, eksem, ændringer i hudens farve, hvide belægninger, hudløshed, blå mærker, ødemer.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Kommunikation",
+    "titel": "Problemer med kommunikation",
+    "beskrivelse": "Vælges når borgeren har problemer med at tale, forstå, skrive, stave og læse som følge af sygdom, skade eller behandling, fx bivirkning af medicin. Fx borgere med en svær hjerneskade og/eller nedsat bevidsthedsniveau, eller brug for anden støtte til kommunikation.",
+    "eksempel": "Fx nedsat evne til at formulere behov og oplevelser verbalt eller nonverbalt. Nedsat evne til at anvende kropssprog, gøre sig forståelig, kommunikere og/eller forstå andres kommunikation. \nEkspressiv afasi, impressiv afasi, dysartri. Nedsat orienteringsevne eller nedsat bevidsthed.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Psykosociale forhold",
+    "titel": "Problemer med socialt samvær",
+    "beskrivelse": "Vælges når borgeren har problemer med at håndtere socialt samvær, overholde sociale normer, interagere med andre eller etablere og opretholde relationer, eller brug for anden støtte til at fungere socialt",
+    "eksempel": "Fx indadvendt og menneskesky, trækker sig fra socialt samvær, udad reagerende eller grænseoverskridende adfærd.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Psykosociale forhold",
+    "titel": "Emotionelle problemer",
+    "beskrivelse": "Vælges når borgeren har problemer med at håndtere følelser i forbindelse med kronisk sygdom, skade eller i forbindelse med livsbegivenheder, eller brug for anden støtte til at håndtere følelser.",
+    "eksempel": "Fx vedvarende tristhed, sorg, savn, tomhed, apati, rastløshed, smerte, vrede, angst, uro, affekt, aggressivitet, lettelse, stress.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Psykosociale forhold",
+    "titel": "Problemer med misbrug",
+    "beskrivelse": "Vælges når borgeren har problemer med vedvarende og skadelig brug af medicin, alkohol eller stoffer, der medfører legemlige, psykiske eller sociale problemer, eller brug for anden støtte til at håndtere misbrugsproblemer.",
+    "eksempel": "Fx abstinenser, rysten, svedeture, hovedpine, indre uro, tankemylder, fysiske smerter, selvdestruktiv adfærd, humørsvingninger, nedsat egenomsorg.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Psykosociale forhold",
+    "titel": "Mentale problemer",
+    "beskrivelse": "Vælges når borgeren har problemer med psykiske eller psykiatriske symptomer som følge af sygdom, skade eller behandling, fx bivirkning af medicin. \nFx borgere med depression, bipolar lidelse, psykose, spiseforstyrrelse eller skizofreni, eller brug for anden støtte til at håndtere psykiske og psykiatriske symptomer",
+    "eksempel": "Fx tankeforstyrrelser, tvangstanker, tvangshandlinger, paranoia, forbier, koncentrationsbesvær, isolation, tristhed, apati, manglende impulskontrol.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Respiration og cirkulation",
+    "titel": "Respirationsproblemer",
+    "beskrivelse": "Vælges når borgeren har respirationsproblemer som følge af sygdom eller skade. \nFx borgere med KOL, astma, lungebetændelse, trakeostomi, eller brug for anden støtte til håndtering af vejrtrækningsproblemer.",
+    "eksempel": "Fx dyspnø, takypnø eller apnø. Forlænget ekspir, fløjtende, rallende, hvæsende vejrtrækning. Stridor. Nedsat eller manglende hostekraft. Hoste. Sejt, skummende, løst eller purulent ekspektorat. Cyanose, nedsat saturation.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Respiration og cirkulation",
+    "titel": "Cirkulationsproblemer",
+    "beskrivelse": "Vælges når borgeren har cirkulationsproblemer som følge af sygdom, skade eller behandling, fx bivirkning af medicin. \nFx borgere med hjerte-kar-problemer, pacemaker, i AK-behandling, eller brug for støtte til håndtering af cardio-vaskulære problemer.",
+    "eksempel": "Fx hudmarmorering, bleg, kold, klam eller kølig hud. Feber, ødemer, cyanose, træthed, svimmelhed. Hypertension, hypotension, bradycardi, takycardi,",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Seksualitet",
+    "titel": "Problemer med seksualitet",
+    "beskrivelse": "Vælges når borgeren har problemer ift. seksualitet som følge af sygdom, skade eller behandling, fx bivirkning af medicin, brug for anden støtte til seksuel aktivitet.",
+    "eksempel": "Fx nedsat, manglende eller øget seksuel lyst, erektionssvigt, impotens, samlejesmerter, samlivsforstyrrelser.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Smerter og sanseindtryk",
+    "titel": "Akutte smerter",
+    "beskrivelse": "Vælges når borgeren har problemer med smerter karakteriseret ved, at de er pludseligt indsættende og af kort varighed som følge af sygdom eller skade, eller brug for anden støtte til at håndtere akutte smerter.",
+    "eksempel": "Beskriv hvordan smerten kommer til udtryk, styrke og udløsende faktorer. Fx dunkende, skærende, brændende, murrende, kolik, jagende, strammende.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Smerter og sanseindtryk",
+    "titel": "Periodevise smerter",
+    "beskrivelse": "Vælges når borgeren har problemer med smerter som forekommer af og til som følge af sygdom eller skade, eller brug for anden støtte til at håndtere periodevise smerter.",
+    "eksempel": "Beskriv hvordan smerten kommer til udtryk, styrke og udløsende faktorer. Fx dunkende, skærende, brændende, murrende, kolik, jagende, strammende.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Smerter og sanseindtryk",
+    "titel": "Kroniske smerter",
+    "beskrivelse": "Vælges når borgeren har problemer med smerter som har varet i mere end 6 måneder som følge af sygdom eller skade, eller brug for anden støtte til at håndtere kroniske smerter.",
+    "eksempel": "Beskriv hvordan smerten kommer til udtryk, styrke og udløsende faktorer. Fx dunkende, skærende, brændende, murrende, kolik, jagende, strammende.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Smerter og sanseindtryk",
+    "titel": "Problemer med synssans",
+    "beskrivelse": "Vælges når borgeren har problemer med synssans som følge af sygdom eller skade. Fx borgere med grøn stær, grå stær eller øjeninfektion, eller brug for anden støtte til at kompensere for ændret synssans.",
+    "eksempel": "Fx nedsat syn eller blindhed. Gradvist aftagende syn, aftagende perifert syn, blændes nemt af lys, aftagende farvesyn. \nInfektion hvor der ses rødme, svien, kløe, irritation, sekret/pus i øjet.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Smerter og sanseindtryk",
+    "titel": "Problemer med lugtesans",
+    "beskrivelse": "Vælges når borgeren har problemer med lugtesans som følge af sygdom, skade eller behandling, fx bivirkning af medicin, eller brug for anden støtte til at kompensere for ændret lugtesans.",
+    "eksempel": "Fx manglende lugtesans, ændret lugtesans.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Smerter og sanseindtryk",
+    "titel": "Problemer med hørelse",
+    "beskrivelse": "Vælges når borgeren har problemer med hørelse som følge af sygdom eller skade, eller brug for anden støtte til at kompensere for ændret høresans.",
+    "eksempel": "Fx trykken for øret, smerter, kløe, svimmelhed, gener af ørevoks, susen eller ringen for ørene. Gener ved baggrundsstøj, problemer med at høre dørklokke eller telefon.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Smerter og sanseindtryk",
+    "titel": "Problemer med smagssans",
+    "beskrivelse": "Vælges når borgeren har problemer med smagssans som følge af sygdom, skade eller behandling, fx bivirkning af medicin, eller brug for anden støtte til at kompensere for ændret smagssans.",
+    "eksempel": "Fx ændret eller manglende smagsoplevelse.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Smerter og sanseindtryk",
+    "titel": "Problemer med følesans",
+    "beskrivelse": "Vælges når borgeren har problemer med følesans som følge af sygdom, skade eller behandling, fx bivirkning af medicin. \nFx borgere med nedsat følesans grundet diabetisk neuropati, eller brug for anden støtte til at kompensere for ændret følesans.",
+    "eksempel": "Fx snurrende, prikkende, sviende eller brændende fornemmelser i fingre og tæer, følelsen af at gå på vat, hyperfølsom hud, smerte ved let berøring, nedsat/ændret følesans i huden.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Søvn og hvile",
+    "titel": "Døgnrytmeproblemer",
+    "beskrivelse": "Vælges når borgeren har problemer med forstyrrelse af søvn og hvile som følge af sygdom, skade eller behandling, fx bivirkning af medicin, eller brug for anden støtte til at håndtere for manglende evne til at adskille dag og nat.",
+    "eksempel": "Fx problemer med at fastholde døgnets rytme, sover om dagen, vågner og er urolig om natten, udmattet, træt i perioder, irritabel, mangler energi.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Søvn og hvile",
+    "titel": "Søvnproblemer",
+    "beskrivelse": "Vælges når borgeren har søvnproblemer som følge af sygdom, skade eller behandling, fx bivirkning af medicin. \nFx borgere med narkolepsi, eller brug for anden støtte til at kompensere for dårlig søvnkvalitet.",
+    "eksempel": "Fx indsovningsbesvær, vågner om natten, afbrudt søvn, vågner tidligt, mareridt, livagtige eller ubehagelige drømme. Træt, udmattet, mangler energi.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Viden og udvikling",
+    "titel": "Problemer med hukommelse",
+    "beskrivelse": "Vælges når borgeren har problemer med hukommelsen som følge af sygdom, skade eller behandling, fx bivirkning af medicin. Fx borgere med demenssygdomme, eller brug for anden støtte til at huske, genkende og anvende tidligere erfaringer.",
+    "eksempel": "Fx glemsomhed, forvirring vedrørende tid og sted, vanskelighed med at finde ting, genkende og anvende tidligere erfaringer.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Viden og udvikling",
+    "titel": "Problemer med sygdomsindsigt",
+    "beskrivelse": "Vælges når borgeren har problemer med egenomsorg og håndtering af egen sundhed, sygdom eller symptomer. \nFx borgere der har tydelig føling ved diabetes, men ikke reagerer, eller borgere med demenssygdomme, der nægter at have problemer i dagligdagen, eller brug for anden støtte til at indse manglende evne til egenomsorg.",
+    "eksempel": "Fx afviser at være syg, afviser at have helbredsproblemer, manglende egenomsorg, overvurderer egne evner, uforstående over for andres oplevelse af helbredsforandringer, ser ikke behov og vil ikke give samtykke til videregivelse af helbredsoplysninger.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Viden og udvikling",
+    "titel": "Problemer med indsigt i behandlingsformål",
+    "beskrivelse": "Vælges når borgeren har problemer med at forstå formålet med behandlingen. \nFx borgere med kroniske eller tilbagevendende sygdom, hvor behandling eller forebyggende behandling afsluttes uhensigtsmæssigt. Borgere med manglende evne til at give informeret samtykke til en behandling, eller brug for anden støtte til at forstå hensigt med behandling (compliance).",
+    "eksempel": "Fx manglende forståelse for formålet med behandling, manglende compliance i forhold til at gennemføre behandlingen.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Viden og udvikling",
+    "titel": "Kognitive problemer",
+    "beskrivelse": "Vælges når borgeren har kognitive problemer som følge af sygdom, skade eller behandling, fx bivirkning af medicin. \nFx borgere med neglect eller delir, eller brug for anden støtte til logisk tænkning, tilegnelse af viden, overblik, planlægning og organisering.",
+    "eksempel": "Fx manglende evne til abstrakt tænkning, adfærdsregulering, tilegnelse af viden, overblik, koordinering, svigtende dømmekraft, desorienteret, urolig, udad reagerende adfærd.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Udskillelse af affaldsstoffer",
+    "titel": "Problemer med vandladning",
+    "beskrivelse": "Vælges når borgeren har problemer med vandladning som følge af sygdom, skade eller behandling, fx bivirkning af medicin. Fx borgere der er i dialysebehandling eller borgere med nefrostomi, urostomi, topkateter eller kateter à demeure, eller brug for anden støtte til at håndtere vandladningsproblemer, der ikke er inkontinens.",
+    "eksempel": "Fx svien og smerter ved vandladning, grumset og ildelugtende urin, blod i urinen, feber, hyppig vandladning, lændesmerter, slap stråle, natlig vandladning, tømningsproblemer, efterdryp, hyppige men små urinmængder.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Udskillelse af affaldsstoffer",
+    "titel": "Problemer med urininkontinens",
+    "beskrivelse": "Vælges når borgeren har problemer med stressinkontinens, tranginkontinens, blandingsinkontinens eller falsk inkontinens som følge af sygdom, skade eller behandling, fx bivirkning af medicin, eller brug for anden støtte til at håndtere urininkontinens.",
+    "eksempel": "Fx sivende urin, urinlækage ved host og nys, efterdryp, manglende blærekontrol.",
+    "medsendes_indlaeggelsesrapporten": true
+  }, {
+    "kategori": "Udskillelse af affaldsstoffer",
+    "titel": "Problemer med afføringsinkontinens",
+    "beskrivelse": "Vælges når borgeren har problemer med afføringsinkontinens som følge af sygdom, skade eller behandling, fx bivirkning af medicin, eller brug for anden støtte til at håndtere afføringsproblemer/ styre afføring.",
+    "eksempel": "Fx problemer med at holde på eller styre afføring eller tarmluft.",
+    "medsendes_indlaeggelsesrapporten": true
+  },
+  {
+    "kategori": "Udskillelse af affaldsstoffer",
+    "titel": "Problemer med mave og tarm",
+    "beskrivelse": "Vælges når borgeren har problemer med mave og tarm som følge af sygdom, skade eller behandling, fx bivirkning af medicin. \nFx borgere med ileostomi, colostomi og sygdomme i lever, galdeveje eller hæmorider, eller brug for anden støtte til at håndtere fordøjelsesproblemer.",
+    "eksempel": "Fx smerter ved afføring, misfarvet og ildelugtende afføring, blødning og rifter ved endetarmen, diarre, obstipation, trykkende fornemmelse i endetarmen, oppustethed, mavesmerter, nedsat appetit, kvalme, opkast.",
+    "medsendes_indlaeggelsesrapporten": true
+  }
+]
